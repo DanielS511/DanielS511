@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm Daniel Sun, currently studying Computer Science and Mathematics at New York University. 
+- 🌱 I’m currently learning Database Management, Analysis, and Algorithm
+- 👤 learn more about me [here](https://daniels511.github.io/)
+- 📫 How to reach me: connect me through [linkedin](https://www.linkedin.com/in/mingqian-daniel-sun-20020511/)
+
+
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielS511&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielS511)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
